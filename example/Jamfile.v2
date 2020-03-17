@@ -1,0 +1,6 @@
+
+exe test01 : test01.cpp ;
+exe test02 : test02.cpp ;
+exe test03 : test03.cpp ;
+exe test04 : test04.cpp ;
+exe test05 : test05.cpp ;
